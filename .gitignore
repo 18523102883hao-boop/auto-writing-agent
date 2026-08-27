@@ -1,0 +1,30 @@
+# ===== 密钥 / 环境变量（绝不入库）=====
+.env
+.env.*
+!.env.example
+**/.env
+!**/.env.example
+
+# ===== 系统 / 编辑器垃圾 =====
+.DS_Store
+**/.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# ===== 依赖 =====
+node_modules/
+**/node_modules/
+
+# ===== 运行时 / 缓存 =====
+*.log
+.pi/
+.openclaw/workspace-state.json
+
+# ===== 本地个人配置（权限等，机器相关，不入库）=====
+.claude/settings.local.json
+
+# ===== 临时输出（按需保留，可自行取消忽略）=====
+# 注意：草稿、已发布文章、知识库是你的劳动成果，默认【不】忽略，照常入库。
+# 如需忽略大体积二进制源文件，按需在下面追加，例如：
+# *.mp4

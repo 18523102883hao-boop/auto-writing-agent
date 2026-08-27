@@ -1,0 +1,15 @@
+{
+  "title": "自动化写作 Agent 构建实战",
+  "digest": "自动化写作 Agent 构建实战：从 0 到 1 打造公众号内容生产流水线上周三凌晨 1 点，我坐在电脑前，看着屏幕上闪烁的光标，突然意识到一个问题：我们每天都在写公众号文章，但为什么每次都要从头开始...",
+  "cover": "_test_run/images/illustration-1.png",
+  "htmlFile": "_test_run/_output/2026-03-16T17-06-07-自动化写作-Agent-构建实战.html",
+  "mode": "draft",
+  "createdAt": "2026-03-16T17:06:07.946Z",
+  "nextSteps": [
+    "1. 登录 mp.weixin.qq.com",
+    "2. 新建图文消息",
+    "3. 粘贴 HTML 内容",
+    "4. 上传封面图",
+    "5. 保存草稿或发布"
+  ]
+}
