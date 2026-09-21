@@ -5,7 +5,7 @@ display_name_en: Sanxing Outdoor Content
 description: Generate platform-native pre-event and post-event content for a children's outdoor growth program from posters, photos and activity facts.
 description_zh: 根据报名海报、活动照片和基本信息，自动生成三行少年户外课堂的公众号、小红书、抖音、朋友圈活动前后宣传内容，并执行未成年人隐私、安全和科学传播检查。
 description_en: Turns posters, photos and event facts into WeChat, Xiaohongshu, Douyin and Moments content with child privacy, outdoor safety and evidence checks.
-category: content
+category: writing
 version: 1.0.0
 author: hao
 user-invocable: true
